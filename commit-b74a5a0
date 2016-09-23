@@ -1,0 +1,15 @@
+From b74a5a0be6542395afaae83185a9e9a707b74e13 Mon Sep 17 00:00:00 2001
+From: Abhi <tabhresh@gmail.com>
+Date: Fri, 23 Sep 2016 10:01:48 +0530
+Subject: Checking the GIT GUI features
+
+Signed-off-by: Abhi <tabhresh@gmail.com>
+
+diff --git a/gui1.txt b/gui1.txt
+new file mode 100644
+index 0000000..a7df37a
+--- /dev/null
++++ b/gui1.txt
+@@ -0,0 +1 @@
++First GUI File
+\ No newline at end of file
