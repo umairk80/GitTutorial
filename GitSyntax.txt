@@ -6,7 +6,7 @@ Dir
 mkdir project.git
 File
 touch newFile.txt
-echo “This text is added to the end of the file” >> newFile.txt
+echo â€œThis text is added to the end of the fileâ€ >> newFile.txt
 
 Clone
 git clone gituser@git.server.com:project.git
@@ -82,3 +82,5 @@ git fetch RemoteName
 
 *remove directory
 rm -rf DeleteFolderName
+
+*git .ignore
